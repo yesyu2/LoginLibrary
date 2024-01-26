@@ -1,0 +1,3 @@
+﻿  TrySomething5.cpp
+C:\Users\HP\Desktop\C++MasterClass\TrySomething5\TrySomething5.cpp(74,10): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  TrySomething5.vcxproj -> C:\Users\HP\Desktop\C++MasterClass\TrySomething5\x64\Debug\TrySomething5.exe
